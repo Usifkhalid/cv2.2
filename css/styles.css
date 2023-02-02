@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    background-color: #F7F5EB;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+
+}
+
+
+h1{
+    margin-top: 50px;
+    font-size: 3.5rem;
+    
+
+}
+img{
+    width: 25%;
+}
+
+  
+.myimg{
+    width: 20%;
+}
+
+
+.box1{
+    background-color: #F7F5EB;
+    display: inline-block;
+
+}
+
+h2{
+    font-size: 2.5rem;
+
+}
+.pp{
+    font-size: 2rem;
+}
+.plan{
+    
+    width: 20%;
+    float: left;
+margin-right: 20px;}
+.dd{
+    font-size: 2rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me{
+    width: 25%;
+    margin: auto;
+}
+
+.logo{
+    width: 30%;
+}
+
+
+.cm{
+    width: 25%;
+}
+h3{
+    color: #F94A29;
+    font-size: 2rem;
+}
+.q{
+    color: #F94A29;
+    font-size: 2rem;
+}
+.rep{
+    float: right;
+    margin-left: 5px;
+}
+
+
+.h{
+    
+    color: #F94A29;
+}
+.m{
+    
+    color: #F94A29;
+}
+.r{
+    font-size: 1.5rem;
+}
